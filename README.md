@@ -1,6 +1,7 @@
 # Python Neo4j Project with SpaCy
-![Example GIF](./docs/example.gif)
 This project demonstrates how to use Python, Neo4j, and SpaCy to create and query a graph database.
+
+![Example GIF](./docs/example.gif)
 
 ## Python Dependencies
 ```bash
